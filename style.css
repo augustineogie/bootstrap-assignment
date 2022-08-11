@@ -1,0 +1,67 @@
+.page{
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.word{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.img{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.img p{
+    color: rgb(41, 39, 39);
+    margin-top: 50px;
+}
+h1{
+    font-size: 30px;
+    margin-bottom: 100px;
+    font-weight: 700;
+}
+/* Email input */
+.form-control {
+    width: 50%;
+    padding: 0 3rem ;
+    margin-right: -400px;
+}
+
+.form-control::placeholder {
+    color: var(--gray-text-color) !important;
+    opacity: .7 !important;
+}
+
+.invalid-feedback {
+    font-size: .8rem;
+}
+
+/* Button */
+
+.btn {
+    width: 50%;
+    margin-left: -350px;
+}
+.p-3{
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+}
+.rounded-pill{
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    margin-left: -300px;
+}
+#validationcustom03{
+    width: 60%;
+    justify-content: center;
+    align-items: center;
+    
+}
+@media screen and(max-width:200px) {
+    
+}
